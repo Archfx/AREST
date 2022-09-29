@@ -1,0 +1,1 @@
+LFI resistance FSM encoding

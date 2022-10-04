@@ -5,8 +5,7 @@ Simple Greedy algorithm AREST which can find you best state encoding for a given
 
 ``This work has been accepted in The 40th IEEE International Conference on Computer Design ``
 
-## Try running it on Browser
+### Try running it on Browser
 
 <a href="https://archfx.github.io/fsmencoding"><img src="images/arest.png"
-     alt="https://archfx.github.io/fsmencoding"
-     style="float: left; margin-right: 10px;" /></a>
+     alt="https://archfx.github.io/fsmencoding" /></a>

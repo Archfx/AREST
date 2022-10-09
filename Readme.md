@@ -15,4 +15,4 @@ Simple Greedy algorithm AREST which can find you best state encoding for a given
 
 ### Try running it on Browser
 Demo : <a href="https://archfx.github.io/fsmencoding">archfx.github.io/fsmencoding</a><br>
-<a href="images/fsm.png" alt="https://archfx.github.io/fsmencoding" /></a>
+<a href="images/FSM.png" alt="https://archfx.github.io/fsmencoding" /></a>

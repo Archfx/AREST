@@ -4,7 +4,8 @@
 Simple Greedy algorithm AREST, which can find you the best state encoding for a given FSM that is resistant against Laser Fault Injection (LFI) attacks.
 
 ### Cite this work :
-```@inproceedings{jayasena2022efficient,
+```
+@inproceedings{jayasena2022efficient,
   title={Efficient Finite State Machine Encoding for Defending Against Laser Fault Injection Attacks},
   author={Jayasena, Aruna and Rani, Khushboo and Mishra, Prabhat},
   booktitle={IEEE International Conference on Computer Design},

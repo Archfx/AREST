@@ -3,6 +3,12 @@
 
 Simple Greedy algorithm AREST, which can find you the best state encoding for a given FSM that is resistant against Laser Fault Injection (LFI) attacks.
 
+###
+Running the script
+```shell
+python3 AREST_encoding.py [LFI capability] [Number of States]
+```
+
 ### Cite this work :
 ```
 @inproceedings{jayasena2022efficient,

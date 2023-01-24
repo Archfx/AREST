@@ -11,9 +11,9 @@ def hamming2(s1, s2):
 
 
 start_time = time.time()
-numGroups = int(sys.argv[1])
-HD = int(sys.argv[2])
-largestGroup = int(sys.argv[3])
+numGroups = 1 #int(sys.argv[1])
+HD = int(sys.argv[1])
+largestGroup = int(sys.argv[2])
 # -1 to shift into correct length at start of while loop.
 if numGroups > 1:
 	stringLength = HD + math.ceil(HD/2) - 1
